@@ -8,7 +8,7 @@
   <a href="https://github.com/arcostasi">GITHUB</a>
 </p>
 
-## `root@arcostasi:~# whoami`
+## `arcostasi@ar2labs:~# whoami`
 
 **Anderson Costa** · Embedded Software Engineer
 
@@ -23,19 +23,19 @@ runtime        FreeRTOS · real-time embedded applications
 bench          oscilloscopes · logic analyzers · CAN analyzers
 ```
 
-## `root@arcostasi:~# ls ./workbench`
+## `arcostasi@ar2labs:~# ls ./workbench`
 
 - [**ESP32 Javatari Embedded**](https://github.com/arcostasi/esp32-javatari-embedded) — an ESP32-powered Atari 2600 emulator built into an Atari CX40 joystick.
 - [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — an Electron playground built with AVR8js and Wokwi Elements.
 - [**My Wokwi Projects**](https://github.com/arcostasi/my-wokwi-projects) — Arduino experiments prototyped in the Wokwi simulator.
 
-## `root@arcostasi:~# dmesg --follow`
+## `arcostasi@ar2labs:~# dmesg --follow`
 
 Currently interested in reliable protocol stacks, ECU software, hardware/software integration, signal diagnostics, and performance-focused C/C++.
 
 **Toolchain:** Git · CMake · Docker · CI/CD · Python scripting · Vector CANoe · PCAN-Explorer
 
-## `root@arcostasi:~# ./connect.sh`
+## `arcostasi@ar2labs:~# ./connect.sh`
 
 Open to interesting embedded, firmware, and communication-system projects.
 
