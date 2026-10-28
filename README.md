@@ -25,9 +25,10 @@ bench          oscilloscopes · logic analyzers · CAN analyzers
 
 ## `arcostasi@ar2labs:~# ls ./workbench`
 
-- [**ESP32 Javatari Embedded**](https://github.com/arcostasi/esp32-javatari-embedded) — an ESP32-powered Atari 2600 emulator built into an Atari CX40 joystick.
-- [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — an Electron playground built with AVR8js and Wokwi Elements.
-- [**My Wokwi Projects**](https://github.com/arcostasi/my-wokwi-projects) — Arduino experiments prototyped in the Wokwi simulator.
+- [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — an offline Arduino simulator with a visual circuit editor, live peripherals, and diagnostics.
+- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — a Rust compiler project for CA-Clipper/Harbour compatibility, with a C backend, tests, and CI.
+- [**6502 Laboratory Simulator**](https://github.com/arcostasi/6502-labsim) — an interactive MOS 6502 computer with an assembler, live bus views, and a test runner.
+- [**ESP32 Javatari Embedded**](https://github.com/arcostasi/esp32-javatari-embedded) — an Atari 2600 emulator integrated into an Atari CX40 joystick with an ESP32.
 
 ## `arcostasi@ar2labs:~# dmesg --follow`
 
