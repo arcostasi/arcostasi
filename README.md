@@ -1,37 +1,39 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Anderson R. Costa — software embarcado, firmware e redes de campo" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Anderson R. Costa — embedded software, firmware, and field networks" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://arcostasi.github.io">Portfólio</a> ·
-  <a href="https://dobitaocampo.com.br/">Livro</a> ·
+  <a href="https://arcostasi.github.io">Portfolio</a> ·
+  <a href="https://dobitaocampo.com.br/">Book</a> ·
   <a href="https://linkedin.com/in/arcostasi">LinkedIn</a>
 </p>
 
+<img align="right" width="220" src="./assets/foto-perfil.png" alt="Illustrated portrait of Anderson R. Costa">
+
 # Anderson R. Costa
 
-Desenvolvedor de software desde 1997, com atuação em firmware, eletrônica e sistemas embarcados para automação agrícola e industrial. Trabalho na integração entre hardware, software de tempo real e redes de comunicação.
+Software developer since 1997, working across firmware, electronics, and embedded systems for agricultural and industrial automation. I focus on the connection between hardware, real-time software, and communication networks.
 
-Sou autor de [*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/), um guia prático sobre as redes que conectam tratores e implementos — da camada física ao diagnóstico.
+I am the author of [*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/), a practical guide to the networks that connect tractors and implements—from the physical layer to diagnostics.
 
-## Áreas de atuação
+## Focus areas
 
-- **Firmware e baixo nível:** C/C++, arquitetura, microcontroladores e FreeRTOS.
-- **Redes e protocolos:** CAN, CANopen, SAE J1939, ISOBUS (ISO 11783) e LIN.
-- **Plataformas:** STM32, ESP32, XMC, Microchip e Embedded Linux.
-- **Bancada e ferramentas:** osciloscópios, analisadores lógicos, Vector CANoe, PCAN-Explorer, Git e CMake.
+- **Firmware and low-level software:** C/C++, architecture, microcontrollers, and FreeRTOS.
+- **Networks and protocols:** CAN, CANopen, SAE J1939, ISOBUS (ISO 11783), and LIN.
+- **Platforms:** STM32, ESP32, XMC, Microchip, and Embedded Linux.
+- **Lab and toolchain:** oscilloscopes, logic analyzers, Vector CANoe, PCAN-Explorer, Git, and CMake.
 
-## Projetos em destaque
+## Selected projects
 
-- [**TorqueBus Studio**](https://github.com/ar2labs/torquebus) — bancada aberta para captura CAN, decodificação DBC, diagnósticos, simulação e dashboards.
-- [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — simulador offline de Arduino com editor de circuitos, periféricos e diagnóstico.
-- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — projeto de compilador em Rust para compatibilidade com CA-Clipper e Harbour, com backend em C e integração contínua.
-- [**6502 Laboratory Simulator**](https://github.com/arcostasi/6502-labsim) — computador MOS 6502 interativo com assembler, visualização do barramento e execução de testes.
+- [**TorqueBus Studio**](https://github.com/ar2labs/torquebus) — an open workbench for CAN capture, DBC decoding, diagnostics, simulation, and dashboards.
+- [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — an offline Arduino simulator with a visual circuit editor, peripherals, and diagnostics.
+- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — a Rust compiler project for CA-Clipper and Harbour compatibility, with a C backend, tests, and continuous integration.
+- [**6502 Laboratory Simulator**](https://github.com/arcostasi/6502-labsim) — an interactive MOS 6502 computer with an assembler, live bus views, and a test runner.
 
-## Publicação técnica
+## Technical book
 
-[*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/) percorre CAN, SAE J1939 e ISO 11783 em 22 capítulos, com 112 exercícios e quatro estudos de caso. A primeira edição tem 217 páginas e uma [amostra gratuita](https://dobitaocampo.com.br/#amostra).
+[*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/) covers CAN, SAE J1939, and ISO 11783 in 22 chapters, with 112 exercises and four diagnostic case studies. The first edition has 217 pages. [Read a free sample](https://dobitaocampo.com.br/#amostra).
 
-## Contato
+## Contact
 
-[Portfólio](https://arcostasi.github.io) · [LinkedIn](https://linkedin.com/in/arcostasi) · [GitHub](https://github.com/arcostasi)
+[Portfolio](https://arcostasi.github.io) · [LinkedIn](https://linkedin.com/in/arcostasi) · [GitHub](https://github.com/arcostasi)
