@@ -25,8 +25,8 @@ I am the author of [*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.c
 
 - [**TorqueBus Studio**](https://github.com/ar2labs/torquebus) — an open workbench for CAN capture, DBC decoding, diagnostics, simulation, and dashboards.
 - [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — an offline Arduino simulator with a visual circuit editor, peripherals, and diagnostics.
-- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — a Rust compiler project for CA-Clipper and Harbour compatibility, with a C backend, tests, and continuous integration.
 - [**6502 Laboratory Simulator**](https://github.com/arcostasi/6502-labsim) — an interactive MOS 6502 computer with an assembler, live bus views, and a test runner.
+- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — a Rust compiler project for CA-Clipper and Harbour compatibility, with a C backend, tests, and continuous integration.
 
 ## Technical book
 
