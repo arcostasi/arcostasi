@@ -1,47 +1,37 @@
 <p align="center">
-  <img src="./assets/cyberpunk-banner.svg" alt="Anderson Costa — Embedded Software Engineer" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Anderson R. Costa — software embarcado, firmware e redes de campo" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://arcostasi.github.io">WEBSITE</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/arcostasi">LINKEDIN</a> &nbsp;|&nbsp;
-  <a href="https://github.com/arcostasi">GITHUB</a>
+  <a href="https://arcostasi.github.io">Portfólio</a> ·
+  <a href="https://dobitaocampo.com.br/">Livro</a> ·
+  <a href="https://linkedin.com/in/arcostasi">LinkedIn</a>
 </p>
 
-## `arcostasi@ar2labs:~# whoami`
+# Anderson R. Costa
 
-**Anderson Costa** · Embedded Software Engineer
+Desenvolvedor de software desde 1997, com atuação em firmware, eletrônica e sistemas embarcados para automação agrícola e industrial. Trabalho na integração entre hardware, software de tempo real e redes de comunicação.
 
-I work close to the hardware: firmware, real-time behavior, and the communication layers that keep agricultural and industrial machines talking. My day-to-day interests live somewhere between registers, buses, and the code that makes them behave.
+Sou autor de [*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/), um guia prático sobre as redes que conectam tratores e implementos — da camada física ao diagnóstico.
 
-I am also the author of [Fundamentos de CAN, J1939 e ISOBUS](https://dobitaocampo.com.br/).
+## Áreas de atuação
 
-```text
-$ cat /proc/anderson/focus
-firmware       C / C++ · architecture · optimization
-buses          CAN · CANopen · SAE J1939 · ISOBUS (ISO 11783) · LIN
-platforms      STM32 · ESP32 · XMC · Microchip · Embedded Linux
-runtime        FreeRTOS · real-time embedded applications
-bench          oscilloscopes · logic analyzers · CAN analyzers
-```
+- **Firmware e baixo nível:** C/C++, arquitetura, microcontroladores e FreeRTOS.
+- **Redes e protocolos:** CAN, CANopen, SAE J1939, ISOBUS (ISO 11783) e LIN.
+- **Plataformas:** STM32, ESP32, XMC, Microchip e Embedded Linux.
+- **Bancada e ferramentas:** osciloscópios, analisadores lógicos, Vector CANoe, PCAN-Explorer, Git e CMake.
 
-## `arcostasi@ar2labs:~# ls ./workbench`
+## Projetos em destaque
 
-- [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — an offline Arduino simulator with a visual circuit editor, live peripherals, and diagnostics.
-- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — a Rust compiler project for CA-Clipper/Harbour compatibility, with a C backend, tests, and CI.
-- [**6502 Laboratory Simulator**](https://github.com/arcostasi/6502-labsim) — an interactive MOS 6502 computer with an assembler, live bus views, and a test runner.
-- [**ESP32 Javatari Embedded**](https://github.com/arcostasi/esp32-javatari-embedded) — an Atari 2600 emulator integrated into an Atari CX40 joystick with an ESP32.
+- [**TorqueBus Studio**](https://github.com/ar2labs/torquebus) — bancada aberta para captura CAN, decodificação DBC, diagnósticos, simulação e dashboards.
+- [**AVR8js Electron Playground**](https://github.com/arcostasi/avr8js-electron-playground) — simulador offline de Arduino com editor de circuitos, periféricos e diagnóstico.
+- [**Harbour Rust**](https://github.com/arcostasi/harbour-rust) — projeto de compilador em Rust para compatibilidade com CA-Clipper e Harbour, com backend em C e integração contínua.
+- [**6502 Laboratory Simulator**](https://github.com/arcostasi/6502-labsim) — computador MOS 6502 interativo com assembler, visualização do barramento e execução de testes.
 
-## `arcostasi@ar2labs:~# dmesg --follow`
+## Publicação técnica
 
-Currently interested in reliable protocol stacks, ECU software, hardware/software integration, signal diagnostics, and performance-focused C/C++.
+[*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/) percorre CAN, SAE J1939 e ISO 11783 em 22 capítulos, com 112 exercícios e quatro estudos de caso. A primeira edição tem 217 páginas e uma [amostra gratuita](https://dobitaocampo.com.br/#amostra).
 
-**Toolchain:** Git · CMake · Docker · CI/CD · Python scripting · Vector CANoe · PCAN-Explorer
+## Contato
 
-## `arcostasi@ar2labs:~# ./connect.sh`
-
-Open to interesting embedded, firmware, and communication-system projects.
-
-[![Website](https://img.shields.io/badge/WEB-0b1020?style=flat-square&logo=googlechrome&logoColor=35f2ff)](https://arcostasi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b1020?style=flat-square&logo=linkedin&logoColor=35f2ff)](https://linkedin.com/in/arcostasi)
-[![GitHub](https://img.shields.io/badge/GITHUB-0b1020?style=flat-square&logo=github&logoColor=ff4bd8)](https://github.com/arcostasi)
+[Portfólio](https://arcostasi.github.io) · [LinkedIn](https://linkedin.com/in/arcostasi) · [GitHub](https://github.com/arcostasi)

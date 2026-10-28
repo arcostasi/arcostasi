@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Anderson R. Costa — Software embarcado e redes de campo</title>
+  <desc id="desc">Banner em grafite e azul-ardósia com um esquema discreto de barramento e identidade alinhada ao livro Fundamentos de CAN, J1939 e ISOBUS.</desc>
+  <rect width="1200" height="300" fill="#1F2937"/>
+  <rect x="64" y="57" width="4" height="184" rx="2" fill="#3F6B5A"/>
+  <text x="92" y="85" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2.4">SOFTWARE EMBARCADO · SISTEMAS DE CAMPO</text>
+  <text x="92" y="145" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="650" letter-spacing="-1">Anderson R. Costa</text>
+  <text x="92" y="190" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="19">Firmware · CAN · SAE J1939 · ISOBUS</text>
+  <text x="92" y="226" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Autor de Fundamentos de CAN, J1939 e ISOBUS</text>
+  <g fill="none" stroke="#52677D" stroke-width="2">
+    <path d="M782 148H1138M782 158H1138"/>
+    <path d="M825 148V99m90 59v48m90-57V99m90 59v48"/>
+    <rect x="808" y="79" width="34" height="20" rx="2"/><rect x="898" y="206" width="34" height="20" rx="2"/>
+    <rect x="988" y="79" width="34" height="20" rx="2"/><rect x="1078" y="206" width="34" height="20" rx="2"/>
+  </g>
+  <g fill="#94A3B8">
+    <circle cx="825" cy="148" r="4"/><circle cx="915" cy="158" r="4"/><circle cx="1005" cy="148" r="4"/><circle cx="1095" cy="158" r="4"/>
+  </g>
+  <g fill="#CBD5E1" font-family="Consolas, monospace" font-size="10" text-anchor="middle">
+    <text x="825" y="93">CAN</text><text x="915" y="220">J1939</text><text x="1005" y="93">ISOBUS</text><text x="1095" y="220">ECU</text>
+  </g>
+</svg>
