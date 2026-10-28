@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Anderson R. Costa — embedded software, firmware, and field networks" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Anderson Costa — embedded software, firmware, and field networks" width="100%">
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
   <a href="https://linkedin.com/in/arcostasi">LinkedIn</a>
 </p>
 
-<img align="right" width="220" src="./assets/foto-perfil.png" alt="Illustrated portrait of Anderson R. Costa">
+<img align="right" width="220" src="./assets/foto-perfil.png" alt="Illustrated portrait of Anderson Costa">
 
-# Anderson R. Costa
+# Anderson Costa
 
 Software developer since 1997, working across firmware, electronics, and embedded systems for agricultural and industrial automation. I focus on the connection between hardware, real-time software, and communication networks.
 
