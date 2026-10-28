@@ -14,6 +14,8 @@
 
 I work close to the hardware: firmware, real-time behavior, and the communication layers that keep agricultural and industrial machines talking. My day-to-day interests live somewhere between registers, buses, and the code that makes them behave.
 
+I am also the author of [Fundamentos de CAN, J1939 e ISOBUS](https://dobitaocampo.com.br/).
+
 ```text
 $ cat /proc/anderson/focus
 firmware       C / C++ · architecture · optimization
