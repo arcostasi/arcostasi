@@ -10,15 +10,15 @@
 
 # Anderson Costa
 
-Software developer since 1997, working across firmware, electronics, and embedded systems for agricultural and industrial automation. I focus on the connection between hardware, real-time software, and communication networks.
+Embedded software developer at AR2 Labs, connecting firmware, electronics, and communication networks to build solutions for agricultural and industrial automation. Working in software since 1997, with a focus on systems that bridge hardware, real-time behavior, and operator-facing applications.
 
 I am the author of [*Fundamentos de CAN, J1939 e ISOBUS*](https://dobitaocampo.com.br/), a practical guide to the networks that connect tractors and implements—from the physical layer to diagnostics.
 
 ## Focus areas
 
-- **Firmware and low-level software:** C/C++, architecture, microcontrollers, and FreeRTOS.
-- **Networks and protocols:** CAN, CANopen, SAE J1939, ISOBUS (ISO 11783), and LIN.
-- **Platforms:** STM32, ESP32, XMC, Microchip, and Embedded Linux.
+- **Firmware and embedded systems:** C/C++ for PIC, AVR, STM32, ESP32, and RP2040; FreeRTOS; Embedded Linux with Rust and Slint.
+- **Vehicle networks and agricultural automation:** CAN, CANopen, SAE J1939, ISOBUS (ISO 11783), Virtual Terminal (VT), Task Controller (TC), and LIN.
+- **Connected applications:** Wi-Fi device integration; web and supervisory systems with JavaScript, TypeScript, Node.js, and PHP; Android with Kotlin; and cross-platform apps with Flutter and Dart.
 - **Lab and toolchain:** oscilloscopes, logic analyzers, Vector CANoe, PCAN-Explorer, Git, and CMake.
 
 ## Selected projects
